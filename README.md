@@ -1,6 +1,6 @@
-# Acebook
+# Less waste more taste
 
-Less waste more taste - an app to find fun cocktails with what you have at home!
+An app to find fun cocktails with what you have at home!
 This is a JavaScript project utilising React for the user interface.
 
 Created by [Thomas Mannion](https://github.com/TomMannion), [Marina Ivanova](https://github.com/MarinaIvanova-1), [Yichao](https://github.com/oahciy), [Jean Bustinza](https://github.com/jeanbu) and [Sadat Manjur](https://github.com/Sadat15).
